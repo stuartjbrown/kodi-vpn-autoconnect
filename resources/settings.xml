@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+<category label="30001">
+	<setting label="30006" type="lsep"/>
+	<setting label="30010" type="text" id="addon1" default=""/>
+	<setting label="30012" type="text" id="addonovpn1" default=""/>
+	<setting label="30011" type="file" id="file1" value=""/>
+	<setting label="30005" type="lsep"/>
+	<setting label="30010" type="text" id="addon2" default=""/>
+	<setting label="30012" type="text" id="addonovpn2" default=""/>
+	<setting label="30011" type="file" id="file2" value=""/>
+	<setting label="30005" type="lsep"/>
+	<setting label="30010" type="text" id="addon3" default=""/>
+	<setting label="30012" type="text" id="addonovpn3" default=""/>
+	<setting label="30011" type="file" id="file3" value=""/>
+	<setting label="30005" type="lsep"/>
+	<setting label="30010" type="text" id="addon4" default=""/>
+	<setting label="30012" type="text" id="addonovpn4" default=""/>
+	<setting label="30011" type="file" id="file4" value=""/>
+	<setting label="30005" type="lsep"/>
+	<setting label="30010" type="text" id="addon5" default=""/>
+	<setting label="30012" type="text" id="addonovpn5" default=""/>
+	<setting label="30011" type="file" id="file5" value=""/>
+	<setting label="30005" type="lsep"/>
+	<setting label="30010" type="text" id="addon6" default=""/>
+	<setting label="30012" type="text" id="addonovpn6" default=""/>
+	<setting label="30011" type="file" id="file6" value=""/>
+	<setting label="30005" type="lsep"/>
+	<setting label="30010" type="text" id="addon7" default=""/>
+	<setting label="30012" type="text" id="addonovpn7" default=""/>
+	<setting label="30011" type="file" id="file7" value=""/>
+	<setting label="30005" type="lsep"/>
+	<setting label="30010" type="text" id="addon8" default=""/>
+	<setting label="30012" type="text" id="addonovpn8" default=""/>
+	<setting label="30011" type="file" id="file8" value=""/>
+	<setting label="30005" type="lsep"/>
+	<setting label="30010" type="text" id="addon9" default=""/>
+	<setting label="30012" type="text" id="addonovpn9" default=""/>
+	<setting label="30011" type="file" id="file9" value=""/>
+	<setting label="30005" type="lsep"/>
+	<setting label="30010" type="text" id="addon10" default=""/>
+	<setting label="30012" type="text" id="addonovpn10" default=""/>
+	<setting label="30011" type="file" id="file10" value=""/>
+</category>
+<category label="30002">
+	<setting label="30013" type="file" id="file_disconnect" value=""/>
+	<setting label="30007" type="text" id="defaultopenvpn" default=""/>
+	<setting label="30008" type="file" id="defaultfile" value=""/>	
+	<setting label="30005" type="lsep"/>
+	<setting label="30014" type="bool" id="show_name" value="false" default="false"/> 
+</category>
+</settings>

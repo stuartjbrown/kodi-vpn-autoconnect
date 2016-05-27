@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<!-- Addon Settings -->
+	<string id="30010">Name of Path (or part of it)</string>
+	<string id="30011">Choose VPN Script</string>
+	<string id="30012">Choose OpenVPN Profile OR</string>
+	<string id="30013">Choose VPN Script to disconnect (opt.)</string>
+	<string id="30014">Show Folderpath as Notification</string>
+	<string id="30001">Configuration</string>
+	<string id="30002">Additional Settings</string>
+	<string id="30005">-----------------------------------------------------------</string>
+	<string id="30006">Auto-Connect to VPN (OpenVPN or Script)</string>
+	<string id="30007">Default VPN: OpenVPN Profile OR</string>
+	<string id="30008">Default VPN: VPN script</string>
+	
+	
+</strings>

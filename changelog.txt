@@ -1,0 +1,8 @@
+v0.3 (27 May 2016)
+  - Stop VPN disconnecting when playing a video in addon
+
+v0.2 (6 April 2015)
+  - 10th path entry was ignored > corrected
+
+v0.1 (4 April 2015)
+  - initial release
